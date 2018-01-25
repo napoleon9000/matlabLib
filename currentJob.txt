@@ -1,0 +1,51 @@
+Job Id: 40481595.mgr-04.i
+    Job_Name = mongoDB_server
+    Job_Owner = jlliu@lac-369
+    job_state = R
+    queue = main
+    server = mgr-04.i
+    Account_Name = hirn
+    Checkpoint = u
+    ctime = Sun Mar 19 17:32:35 2017
+    Error_Path = lac-369.i:/mnt/research/msce/jialin/fireWorks/mongoDB_server.
+	e40481595
+    exec_host = lac-369/0-9
+    Hold_Types = n
+    Join_Path = oe
+    Keep_Files = n
+    Mail_Points = e
+    Mail_Users = jlliu@msu.edu
+    mtime = Sun Mar 19 17:33:15 2017
+    Output_Path = lac-369.i:/mnt/research/msce/jialin/fireWorks/mongoDB_server
+	.o40481595
+    Priority = 0
+    qtime = Sun Mar 19 17:32:35 2017
+    Rerunable = False
+    Resource_List.feature = intel16
+    Resource_List.mem = 10gb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=10
+    Resource_List.walltime = 144:00:00
+    session_id = 8504
+    Variable_List = PBS_O_QUEUE=main,PBS_O_HOME=/mnt/home/jlliu,
+	PBS_O_LOGNAME=jlliu,
+	PBS_O_PATH=/opt/software/JDK/jdk1.8.0_102/bin:/mnt/home/jlliu/.linuxb
+	rew/bin:/opt/moab/bin:/usr/lib64/qt-3.3/bin:/opt/software/lmod/bin:/bi
+	n:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/hpcc/bin:/usr/lo
+	cal/bin:/opt/ibutils/bin:/mnt/home/jlliu/bin:/opt/software/mongodb/3.2
+	.10,PBS_O_MAIL=/var/spool/mail/jlliu,PBS_O_SHELL=/bin/bash,
+	PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/mnt/research/msce/jialin/fireWorks,
+	PBS_O_HOST=lac-369.i,PBS_O_SERVER=mgr-04
+    euser = jlliu
+    egroup = mse
+    queue_type = E
+    etime = Sun Mar 19 17:32:35 2017
+    submit_args = mongoJob.qsub
+    start_time = Sun Mar 19 17:33:15 2017
+    Walltime.Remaining = 518399
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = lac-369.i
+

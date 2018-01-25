@@ -1,0 +1,7 @@
+host: lac-369  
+port: 27017    
+name: fireworks
+username:      
+password:      
+logdir: null   
+strm_lvl: INFO 
